@@ -34,7 +34,7 @@ public class qrcodeCreate {
 		
 		File file = null;
 		
-		// gr
+		// g
 			
 		try{ 
 			file = new File("D:\\qrtest\\");
