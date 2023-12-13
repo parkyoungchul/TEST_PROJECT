@@ -33,6 +33,8 @@ public class qrcodeCreate {
 		ResultSet rs = null;
 		
 		File file = null;
+		
+		// gr
 			
 		try{ 
 			file = new File("D:\\qrtest\\");
